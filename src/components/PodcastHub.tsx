@@ -72,7 +72,7 @@ const PodcastHub = () => {
                 className="absolute inset-0 w-full h-full object-cover opacity-50"
               />
               <div className="relative z-10 text-center">
-                <h4 className="text-2xl font-bold text-white mb-4">Experience as a Cricketerin Nepal</h4>
+                <h4 className="text-2xl font-bold text-white mb-4">Experience of a Cricketerin Nepal</h4>
                 <p className="text-gray-300 mb-6">
                   An inspiring journey through the world of cricket, breaking barriers and achieving dreams.
                 </p>
