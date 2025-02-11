@@ -3,7 +3,7 @@ const Clients = () => {
   const clients = [
     {
       name: "Australia Maa Meme",
-      logo: "https://scontent.fktm1-1.fna.fbcdn.net/v/t39.30808-6/438198332_828757362606412_8203049831905268483_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=8DaE7zSMGRgQ7kNvgFYwCtF&_nc_zt=23&_nc_ht=scontent.fktm1-1.fna&_nc_gid=ANtCqhIdvaCo1ZCHEdM3SVL&oh=00_AYBDa23fSSRyvKHMQ2B8BZGoJS784fg9x5G407S0wtZ7hw&oe=67A640B5"
+      logo: "https://res.cloudinary.com/des4un3c1/image/upload/c_thumb,w_200,g_face/v1739259115/438198332_828757362606412_8203049831905268483_n_rume9h.jpg"
     },
     /*{
       name: "Grace International Education Consultancy",
@@ -11,11 +11,11 @@ const Clients = () => {
     },*/
     {
       name: "NRNA Australia SCC NSW",
-      logo: "https://scontent.fktm1-1.fna.fbcdn.net/v/t39.30808-6/326254203_629484835517286_3231513524220765282_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=dYSxzW8at8MQ7kNvgGVbTTI&_nc_zt=23&_nc_ht=scontent.fktm1-1.fna&_nc_gid=At13DnhFjRekrFV8jAnfeKY&oh=00_AYA1JUy-KRx3OhsK3MvhdSW1l-2z52R4Mqt2ROnIzBpYhA&oe=67A64EA1"
+      logo: "https://res.cloudinary.com/des4un3c1/image/upload/c_thumb,w_200,g_face/v1739259115/326254203_629484835517286_3231513524220765282_n_fp8lzc.jpg"
     },
     {
       name: "Nepal Festival Sydney 2024",
-      logo: "https://scontent.fktm1-1.fna.fbcdn.net/v/t39.30808-6/454731888_476277018580825_741846519214628119_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=U6Iv0kwNb60Q7kNvgG0rfIY&_nc_zt=23&_nc_ht=scontent.fktm1-1.fna&_nc_gid=AWaqvyOWZOaP9v2DxsQVPVh&oh=00_AYBX8jLLZs8FkpQ8YRHrBKfAhjxQszFXf1thJG8LCPAJkQ&oe=67A65604"
+      logo: "https://res.cloudinary.com/des4un3c1/image/upload/c_thumb,w_200,g_face/v1739259116/301cdc79_373b_44db_886f_e83e09f2de1e_17313069611731335522_zcuswb.jpg"
     }
   ];
 
@@ -29,7 +29,7 @@ const Clients = () => {
           </p>
         </div>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10">
           {clients.map((client, index) => (
             <div 
               key={index}
