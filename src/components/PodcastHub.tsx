@@ -6,19 +6,19 @@ const PodcastHub = () => {
 
   const upcomingPodcasts = [
     {
-      title: "Digital Marketing Trends 2024",
+      title: "What a Women Volleyball Star has to say? ",
       date: "March 25, 2025",
-      description: "Exploring the latest trends in digital marketing and their impact on businesses."
+      description: "Exploring the sportsperson's experience from Nepal."
     },
     {
-      title: "Success Stories: Australian Entrepreneurs",
+      title: "Success Stories: Nepalese Sportsperson",
       date: "April 1, 2025",
-      description: "Featuring successful entrepreneurs sharing their journey and insights."
+      description: "Featuring Sportsperson sharing their journey and insights."
     },
     {
-      title: "Social Media Strategy Masterclass",
+      title: "Becoming a successful Enterpreneur",
       date: "April 8, 2025",
-      description: "Learn effective social media strategies for business growth."
+      description: "Learn effective strategies for business growth."
     }
   ];
 
@@ -72,7 +72,7 @@ const PodcastHub = () => {
                 className="absolute inset-0 w-full h-full object-cover opacity-50"
               />
               <div className="relative z-10 text-center">
-                <h4 className="text-2xl font-bold text-white mb-4">Kritika's Experience as a Female Cricketer</h4>
+                <h4 className="text-2xl font-bold text-white mb-4">Experience as a Cricketerin Nepal</h4>
                 <p className="text-gray-300 mb-6">
                   An inspiring journey through the world of cricket, breaking barriers and achieving dreams.
                 </p>
