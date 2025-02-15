@@ -67,14 +67,14 @@ const PodcastHub = () => {
             <h3 className="text-2xl font-semibold text-white mb-4">Featured: Learning from Experience</h3>
             <div className="aspect-video w-full bg-gradient-to-br from-black via-[#A60000] to-black rounded-lg p-8 flex flex-col items-center justify-center relative overflow-hidden">
               <img 
-                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQzFpE9C66FUhuZwUdpud9ODNoyIXJ7ieAWQ&s"
+                src="https://res.cloudinary.com/des4un3c1/image/upload/v1739590474/1_ntv6dv.png"
                 alt="Experience Thumbnail"
                 className="absolute inset-0 w-full h-full object-cover opacity-50"
               />
               <div className="relative z-10 text-center">
-                <h4 className="text-2xl font-bold text-white mb-4">Experience of a Cricketerin Nepal</h4>
+                <h4 className="text-2xl font-bold text-white mb-4">Experience of a Cricketer in Nepal</h4>
                 <p className="text-gray-300 mb-6">
-                  An inspiring journey through the world of cricket, breaking barriers and achieving dreams.
+                  GUFF with National Cricket Player Abinash Bohara
                 </p>
                 <a 
                   href="https://www.youtube.com/watch?v=Hs0nhuWvjr0"
