@@ -3,7 +3,7 @@ const Clients = () => {
   const clients = [
     {
       name: "Australia Maa Meme",
-      logo: "https://res.cloudinary.com/des4un3c1/image/upload/c_thumb,w_200,g_face/v1739259115/438198332_828757362606412_8203049831905268483_n_rume9h.jpg"
+      logo: "https://res.cloudinary.com/des4un3c1/image/upload/v1739259115/438198332_828757362606412_8203049831905268483_n_rume9h.jpg"
     },
     /*{
       name: "Grace International Education Consultancy",
@@ -11,11 +11,11 @@ const Clients = () => {
     },*/
     {
       name: "NRNA Australia SCC NSW",
-      logo: "https://res.cloudinary.com/des4un3c1/image/upload/c_thumb,w_200,g_face/v1739259115/326254203_629484835517286_3231513524220765282_n_fp8lzc.jpg"
+      logo: "https://res.cloudinary.com/des4un3c1/image/upload/v1739259115/326254203_629484835517286_3231513524220765282_n_fp8lzc.jpg"
     },
     {
       name: "Nepal Festival Sydney 2024",
-      logo: "https://res.cloudinary.com/des4un3c1/image/upload/c_thumb,w_200,g_face/v1739259116/301cdc79_373b_44db_886f_e83e09f2de1e_17313069611731335522_zcuswb.jpg"
+      logo: "https://res.cloudinary.com/des4un3c1/image/upload/v1739259116/301cdc79_373b_44db_886f_e83e09f2de1e_17313069611731335522_zcuswb.jpg"
     }
   ];
 
