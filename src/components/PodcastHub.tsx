@@ -77,7 +77,7 @@ const PodcastHub = () => {
                   Experience of a National Cricketer in Nepal
                 </p>
                 <a 
-                  <iframe width="560" height="315" src="https://www.youtube.com/embed/42f8moIeJm4?si=EZqc3skYQgt7JVmj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
                   href="https://youtu.be/42f8moIeJm4?si=snc2ShbUCeXhpedC"
                   target="_blank"
                   rel="noopener noreferrer"
