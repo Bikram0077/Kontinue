@@ -72,12 +72,13 @@ const PodcastHub = () => {
                 className="absolute inset-0 w-full h-full object-cover opacity-50"
               />
               <div className="relative z-10 text-center">
-                <h4 className="text-2xl font-bold text-white mb-4">Experience of a Cricketer in Nepal</h4>
+                <h4 className="text-2xl font-bold text-white mb-4">GUFF with National Cricket Player Abinash Bohara</h4>
                 <p className="text-gray-300 mb-6">
-                  GUFF with National Cricket Player Abinash Bohara
+                  Experience of a National Cricketer in Nepal
                 </p>
                 <a 
-                  href="https://www.youtube.com/watch?v=Hs0nhuWvjr0"
+                  <iframe width="560" height="315" src="https://www.youtube.com/embed/42f8moIeJm4?si=EZqc3skYQgt7JVmj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                  href="https://youtu.be/42f8moIeJm4?si=snc2ShbUCeXhpedC"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center bg-[#A60000] text-white px-6 py-2 rounded-full hover:bg-[#8a0000] transition-colors"
