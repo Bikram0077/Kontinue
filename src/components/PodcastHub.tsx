@@ -36,17 +36,10 @@ const PodcastHub = () => {
     },
     {
       id: 2,
-      title: "GUFF with National Cricket Player Abinash Bohara",
-      description: "Experience of a National Cricketer in Nepal",
-      thumbnail: "https://res.cloudinary.com/des4un3c1/image/upload/v1739590474/1_ntv6dv.png",
-      videoUrl: "https://youtu.be/42f8moIeJm4?si=snc2ShbUCeXhpedC"
-    },
-    {
-      id: 3,
-      title: "GUFF with National Cricket Player Abinash Bohara",
-      description: "Experience of a National Cricketer in Nepal",
-      thumbnail: "https://res.cloudinary.com/des4un3c1/image/upload/v1739590474/1_ntv6dv.png",
-      videoUrl: "https://youtu.be/42f8moIeJm4?si=snc2ShbUCeXhpedC"
+      title: "GUFF with National Volleybal Player Saraswoti Chaudhary",
+      description: "a national volleyball player who dedicated 12 years of her life to representing Nepal.",
+      thumbnail: "https://scontent.fktm14-1.fna.fbcdn.net/v/t39.30808-6/480914839_122131675382578010_7504039083350813982_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_ohc=39JwPBhs36MQ7kNvgFWTht_&_nc_oc=Adh1oEAG8o8gZnx2Cm65zAKbQGFgnIdAt5hq8ZXtOfd5QUHye88m9ayvt4sx4gDYJ8Y&_nc_zt=23&_nc_ht=scontent.fktm14-1.fna&_nc_gid=AVo17Ks0ev2zrKqfRMxO2M9&oh=00_AYBS0doCyAeq8wrJr84YJ-GhKqX2LC9o9SBhuYDGzV3r_A&oe=67BF20F1",
+      videoUrl: "https://youtu.be/WXXHmcQA-54?si=2CJY97iBE4XZ7InP"
     }
   ];
 
