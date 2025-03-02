@@ -40,7 +40,7 @@ const PodcastHub = () => {
       description: "a national volleyball player who dedicated 12 years of her life to representing Nepal.",
       thumbnail: "https://res.cloudinary.com/des4un3c1/image/upload/v1740919279/480914839_122131675382578010_7504039083350813982_n_1_kmiacq.jpg",
       videoUrl: "https://youtu.be/WXXHmcQA-54?si=2CJY97iBE4XZ7InP"
-    }
+    },
      {
       id: 3,
       title: "Ep.3 GUFF with Raaz Babu Nepal",
