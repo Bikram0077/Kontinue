@@ -47,6 +47,13 @@ const PodcastHub = () => {
       description: " Singer | Artist| Founder of Jam Circle",
       thumbnail: "https://res.cloudinary.com/des4un3c1/image/upload/v1740919258/newthumbnail_xof7a3.jpg",
       videoUrl: "https://youtu.be/l9pYfs9Fs8k?si=IuktnjDYMh6xucon"
+    },
+     {
+      id: 4,
+      title: "Ep.4 GUFF with PRADEEP AIREE",
+      description: " His Cricketing Journey, World Cup Experience & Life in Australia",
+      thumbnail: "https://res.cloudinary.com/des4un3c1/image/upload/v1741931048/IMG_3827_ugjmxk.jpg",
+      videoUrl: "https://youtu.be/-lsBiYW8dio?si=-EmqOASUINXxciq_"
     }
   ];
 
